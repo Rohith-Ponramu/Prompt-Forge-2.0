@@ -499,23 +499,6 @@ If a requirement fails validation, the prompt should be refined before delivery.
 
 ---
 
-# Repository Structure
-
-The current Prompt Forge 2.0 repository is being established as the successor to Prompt Forge V1.
-
-Current repository structure:
-
-```text
-Prompt-Forge-2.0/
-└── README.md
-```
-
-The repository currently does not expose the complete Prompt Forge 2.0 instruction/documentation file structure.
-
-As additional project files are added, this section should be updated to reflect the actual repository contents rather than an assumed structure.
-
----
-
 # Prompt Forge V1 → V2
 
 Prompt Forge 2.0 builds on the core concept established in Prompt Forge V1.
