@@ -603,16 +603,6 @@ Avoid adding complexity unless it provides a clear improvement to prompt reliabi
 
 ---
 
-# License
-
-No license has been specified for the current Prompt Forge 2.0 repository.
-
-**License:** `[INSERT LICENSE]`
-
-Until a license is explicitly added to the repository, users should not assume permissions beyond those provided by applicable GitHub and copyright rules.
-
----
-
 # Related Repository
 
 Prompt Forge V1:
