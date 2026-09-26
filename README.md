@@ -20,6 +20,8 @@ Prompt Forge 2.0 runs through **ChatGPT Projects** using project instructions. I
 └── Max OP (CCGGP).docx 
 
 ---
+Required source: Upload Max OP (CCGGP).docx to the project's Sources/Files and add the Prompt Forge 2.0 instructions under Project settings → Instructions; both are required for the intended Prompt Forge 2.0 workflow.
+---
 
 ## Key Features
 
