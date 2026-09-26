@@ -13,9 +13,10 @@ Prompt Forge 2.0 runs through **ChatGPT Projects** using project instructions. I
 
 ### Prompt-Forge-2.0/
 
-─ README.md
-─ Prompt Forge 2.0 - Custom Instructions.txt
-─ Max OP (CCGGP).docx
+├── README.md 
+├── Prompt Forge 2.0 - Custom Instructions.txt 
+└── Max OP (CCGGP).docx 
+
 ---
 
 ## Key Features
